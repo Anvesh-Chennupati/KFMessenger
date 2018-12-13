@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662966842948",
+    "firebase_url": "https://kfmessenger-16ca6.firebaseio.com",
+    "project_id": "kfmessenger-16ca6",
+    "storage_bucket": "kfmessenger-16ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662966842948:android:103feead2306b5fb",
+        "android_client_info": {
+          "package_name": "com.example.anvesh.kfmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662966842948-hc3vl357fffj5n23o14repgcumgb68kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDsPZOhobiwN_07198WJXNdDmdYs6Znjs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
